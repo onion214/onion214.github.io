@@ -71,7 +71,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/onion214/onion214.github.io.git	
-
+  branch: master	
 
 # Admin
 admin:
